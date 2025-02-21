@@ -1,4 +1,4 @@
-------------------------------------------------------------------------------------------------------
+  ------------------------------------------------------------------------------------------------------
 PROCESSUS DE RESTAURATION GITHUB
 ------------------------------------------------------------------------------------------------------
 Suite à une modification de code dans GitHub, votre solution ne fonctionne plus. Vous devez donc restaurer votre code mais comment faire.  
